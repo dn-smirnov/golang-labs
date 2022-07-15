@@ -16,6 +16,8 @@ Installation:
 
 - Enter project folder e.t. golang-labs/dts
 
+- Install all golang dependences ( iam using go 1.8.1 ) from import section of main.go
+
 - run: #go build
 
 - Correct dts.ini on listen and allowed_from
