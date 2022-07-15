@@ -27,3 +27,7 @@ Installation:
 - run #./dts
 
 - done!
+
+- Type in your browser http://$YOUR_IP:8080/metrics or empty test point http://$YOUR_IP:8080/ping 
+
+- You can modify or adding inside Routes section in bottom of main.go wish you want
