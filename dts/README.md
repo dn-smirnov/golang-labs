@@ -1,4 +1,4 @@
-# DTS - is a light Data Transformation Service with Rest API
+# DTS - is a very light Data Transformation Service with Rest API
 
 Based on Gin Web Framework v1.8.1
 
