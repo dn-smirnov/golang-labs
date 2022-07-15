@@ -18,6 +18,8 @@ Installation:
 
 - run: #go build
 
+- Correct dts.ini on listen and allowed_from
+
 - configure MySQL on existing server and testing database in dts.ini
 
 - run #./dts
