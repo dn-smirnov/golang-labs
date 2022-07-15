@@ -1,7 +1,7 @@
 # DTS - is a very light Data Transformation Service with Rest API
 
-- Written on golang 1.18.x
-
+### Written on golang 1.18.x
+<img src="https://github.com/dn-smirnov/golang-labs/blob/master/dts/dts-01.png" width=75% height=75%>
 Based on Gin Web Framework v1.8.1
 
 Ready to MySQL connection for reading data from MySQL directly with go-sql-driver/mysql v1.6.0
