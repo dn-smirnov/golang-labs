@@ -15,17 +15,17 @@ You can construct custom SQL queries for sending it to Prometheus server from yo
 
 Installation:
 
-- Clone repo
+- Clone repo ```bash# git clone https://github.com/dn-smirnov/golang-labs.git```
 
-- Enter project folder e.t. golang-labs/dts
+- Enter project folder e.t. ```bash# cd golang-labs/dts```
 
-- run: #go build
+- run: ```bash# go build```
 
 - Correct dts.ini on listen and allowed_from
 
 - configure MySQL on existing server and testing database in dts.ini
 
-- run #./dts
+- run ```bash#./dts```
 
 - done!
 
