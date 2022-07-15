@@ -8,10 +8,10 @@ import (
 	"log"
 	"net/http"
 	"gopkg.in/ini.v1"
-    "database/sql"
-    _ "github.com/go-sql-driver/mysql"
-    "github.com/gin-gonic/gin"
-    "github.com/zsais/go-gin-prometheus"
+	"database/sql"
+	_ "github.com/go-sql-driver/mysql"
+	"github.com/gin-gonic/gin"
+	"github.com/zsais/go-gin-prometheus"
 )
 
 func main() {
